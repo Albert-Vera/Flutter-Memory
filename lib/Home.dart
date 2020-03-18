@@ -17,7 +17,7 @@ class Home extends StatelessWidget{
               children: <Widget>[
                 Stack(
                   children: <Widget>[
-                    Container( // imagenes cabecera
+                    Container(
                       margin: new EdgeInsets.only(
                           top: 100.0,
                           left: 50.0,
